@@ -1,0 +1,2 @@
+# stage
+Début stage
